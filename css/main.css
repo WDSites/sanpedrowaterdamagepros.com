@@ -232,3 +232,5 @@ body{padding-bottom:64px}
 .fig{margin:24px 0}
 .fig img{width:100%;height:auto;border-radius:var(--radius);display:block;aspect-ratio:16/9;object-fit:cover}
 .blogcard img.bcimg{width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;display:block;background:none}
+
+.mapcall{margin-top:18px}
